@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 // Versa Contracts v1.0.0 (/contracts/InvestmentToken.sol)
-pragma solidity >=0.4.22 <0.9.0;
+pragma solidity 0.8.20;
 
 import "./ERC20AllowlistProxy.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
